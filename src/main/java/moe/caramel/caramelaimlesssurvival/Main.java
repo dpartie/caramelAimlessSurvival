@@ -66,7 +66,7 @@ public final class Main extends JavaPlugin {
     public void configInit() {
         this.getConfig().options().copyDefaults(true);
 
-        this.getConfig().addDefault("WorldBorder.WorldSize", 5000);
+        this.getConfig().addDefault("WorldBorder.WorldSize", 30000);
 
         this.getConfig().addDefault("GameRule.ReduceDebugInfo", true);
         this.getConfig().addDefault("GameRule.AnnounceAdvancements", false);

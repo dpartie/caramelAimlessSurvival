@@ -30,3 +30,4 @@ public class PlayerDeathEvents implements Listener {
     }
 
 }
+

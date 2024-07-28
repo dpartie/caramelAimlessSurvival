@@ -42,3 +42,4 @@ public class PacketManipulationEvents implements Listener {
         PlayerList.update();
     }
 }
+

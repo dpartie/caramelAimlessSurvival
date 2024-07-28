@@ -36,3 +36,4 @@ processResources {
         filter ReplaceTokens, tokens: [version: version]
     }
 }
+
